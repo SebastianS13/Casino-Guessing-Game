@@ -1,0 +1,3 @@
+﻿  Guessing Game.cpp
+C:\Users\sebas\OneDrive\Desktop\Coding Projects\Casino Number Guessing Game\Casino Number Guessing Game\Source\Guessing Game.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Casino Number Guessing Game.vcxproj -> C:\Users\sebas\OneDrive\Desktop\Coding Projects\Casino Number Guessing Game\x64\Debug\Casino Number Guessing Game.exe
